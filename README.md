@@ -6,8 +6,8 @@ This project is implementing 2 classic Algorithms to find MST.
 
 It has all the Java file for above 3 algorithms and to run this just download the code in eclipse and run that as java application.
 File name:
-BoruvkaMSTAlgoImplemenation.java
-PrimMSTAlgoImplementation.java
-kruskalsMSTAlgoImplemenation.java
-new.txt - This is the input file for all the algorithms.
+1. BoruvkaMSTAlgoImplemenation.java
+2. PrimMSTAlgoImplementation.java
+3. kruskalsMSTAlgoImplemenation.java
+4. new.txt - This is the input file for all the algorithms.
 
